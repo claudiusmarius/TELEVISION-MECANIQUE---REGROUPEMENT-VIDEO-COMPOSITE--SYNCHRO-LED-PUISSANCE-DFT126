@@ -1,4 +1,4 @@
-# TELEVISION-MECANIQUE---REGROUPEMENT-VIDEO-COMPOSITE--SYNCHRO-LED-PUISSANCE-DFTA126
+# TELEVISION-MECANIQUE---REGROUPEMENT-VIDEO-COMPOSITE--SYNCHRO-LED-PUISSANCE-DFTA126 https://youtu.be/EH3WCfFm2zc
 Ce schéma a pour rôle de venir commander le groupement de LEDs de puissance à l'arrière du disque de Nipkow. 
 U7 vient retrancher une tension continue équivalente au niveau max du signal de synchro au signal de video composite, de manière à n'envoyer vers le driver de LEDs que le signal de luminance 0 - 100%.
 Ce soustracteur réalise une différence sans gain entre VideoComposite et BlackLevel sous conditions que R24=R25=R21=R22.
